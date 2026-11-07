@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Reproducibility package for: Heat deaths missing from occupational burden estimates in North Africa and the Middle East"
+authors:
+  - family-names: Sattari
+    given-names: Sina
+  - family-names: Mellatyar
+    given-names: Hasan
+  - family-names: Mosavi Jarrahi
+    given-names: Alireza
+  - family-names: Salarabedi
+    given-names: Mohammad-Mahdi
+version: 1.0.0
+date-released: 2026-11-07
+url: "https://github.com/mahdisalarabedi/Additional_occupational_heat_deaths"
